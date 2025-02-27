@@ -12,21 +12,29 @@ This project aims to analyze Uber ride booking patterns to gain insights into us
 The dataset used in this analysis contains Uber ride details, including:
 
 Timestamps: Booking date and time to track peak hours and seasonal trends.
+
 Trip Distance: Distance traveled per ride to understand common ride lengths.
+
 Day of the Week: To analyze which days experience the highest bookings.
 
 ## Key Insights & Findings
 
-🔹 Peak Booking Time: Most Uber rides are booked in the afternoon, suggesting higher demand for midday travel.
-🔹 Popular Booking Days: Fridays, Thursdays, and Mondays experience the highest ride requests, likely due to work commutes, weekend outings, and early-week travel needs.
-🔹 Common Trip Distance: The majority of rides fall within the 0-10 miles range, indicating that Uber is mainly used for short-distance commutes.
-🔹 Seasonal Trends: Booking rates drop in November, December, and January, likely due to cold weather, holidays, and reduced travel activity.
+1.Peak Booking Time: Most Uber rides are booked in the afternoon, suggesting higher demand for midday travel.
+
+2.Popular Booking Days: Fridays, Thursdays, and Mondays experience the highest ride requests, likely due to work commutes, weekend outings, and early-week travel needs.
+
+3.Common Trip Distance: The majority of rides fall within the 0-10 miles range, indicating that Uber is mainly used for short-distance commutes.
+
+4.Seasonal Trends: Booking rates drop in November, December, and January, likely due to cold weather, holidays, and reduced travel activity.
 
 ## Technologies & Tools Used
 
 Python: Data analysis and visualization
+
 Pandas & NumPy: Data cleaning and manipulation
+
 Matplotlib & Seaborn: Visualization of ride patterns
+
 Jupyter Notebook: Interactive data exploration
 
 ## Conclusion
